@@ -12,3 +12,4 @@ C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\refint\TestaMatteApp.dl
 C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.pdb
 C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.genruntimeconfig.cache
 C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\ref\TestaMatteApp.dll
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.sourcelink.json
