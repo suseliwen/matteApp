@@ -1,0 +1,14 @@
+C:\Users\susan\Program_C#\TestaMatteApp\bin\Debug\net8.0\TestaMatteApp.exe
+C:\Users\susan\Program_C#\TestaMatteApp\bin\Debug\net8.0\TestaMatteApp.deps.json
+C:\Users\susan\Program_C#\TestaMatteApp\bin\Debug\net8.0\TestaMatteApp.runtimeconfig.json
+C:\Users\susan\Program_C#\TestaMatteApp\bin\Debug\net8.0\TestaMatteApp.dll
+C:\Users\susan\Program_C#\TestaMatteApp\bin\Debug\net8.0\TestaMatteApp.pdb
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.AssemblyInfoInputs.cache
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.AssemblyInfo.cs
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.csproj.CoreCompileInputs.cache
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.dll
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\refint\TestaMatteApp.dll
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.pdb
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\TestaMatteApp.genruntimeconfig.cache
+C:\Users\susan\Program_C#\TestaMatteApp\obj\Debug\net8.0\ref\TestaMatteApp.dll
